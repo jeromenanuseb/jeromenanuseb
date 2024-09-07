@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromenanuseb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromenanuseb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
